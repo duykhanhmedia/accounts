@@ -11,8 +11,8 @@
 
 	/* Logo */
 		.header .logo {
-			width: 200px;
-			height: 90px;
+			width: 80;
+			height: 50px;
 			float: left;
 			transition-duration: .1s;
 		}
