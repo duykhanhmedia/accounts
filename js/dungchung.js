@@ -697,7 +697,7 @@ function test() {
     const params = new URLSearchParams(window.location.search);
     
     // Kiểm tra nếu có tham số YouTube Premium
-    if (params.has('Youtube-Premium')) {
+    if (params.has('YouTube-Premium')) {
         document.getElementById('youtube-premium').style.display = 'block';
     } 
     
@@ -707,12 +707,12 @@ function test() {
     }
 
     // Kiểm tra nếu có tham số Canva Pro
-    else if (params.has('Capcut-Pro')) {
+    else if (params.has('CapCut-Pro')) {
         document.getElementById('capcut-pro').style.display = 'block';
     }
 
     // Kiểm tra nếu có tham số Canva Pro
-    else if (params.has('Spotify')) {
+    else if (params.has('Spotify-Premium')) {
         document.getElementById('spotify').style.display = 'block';
     }
 
@@ -722,16 +722,16 @@ function test() {
     }
 
     // Kiểm tra nếu có tham số 'netflix'
-    else if (params.has('Netflix')) {
+    else if (params.has('Netflix-Premium')) {
         document.getElementById('netflix').style.display = 'block';
     }
     
     // Kiểm tra nếu có tham số 'duolingo'
-    else if (params.has('Duolingo')) {
+    else if (params.has('Duolingo-Plus')) {
         document.getElementById('duolingo').style.display = 'block';
     }
     // Kiểm tra nếu có tham số 'zoom'
-    else if (params.has('Zoom-Pro')) {
+    else if (params.has('Zoom-Business')) {
         document.getElementById('zoom').style.display = 'block';
     }
     // Kiểm tra nếu có tham số 'elsa-speak'
@@ -739,16 +739,24 @@ function test() {
         document.getElementById('elsa-speak').style.display = 'block';
     }
     // Kiểm tra nếu có tham số 'meet'
-    else if (params.has('Meet-Premium')) {
+    else if (params.has('Google-Meet-Premium')) {
         document.getElementById('meet').style.display = 'block';
     }
     // Kiểm tra nếu có tham số 'hbo'
-    else if (params.has('HBO')) {
+    else if (params.has('HBO-Max')) {
         document.getElementById('hbo').style.display = 'block';
     }
     // Kiểm tra nếu có tham số 'vieon'
-    else if (params.has('Vieon')) {
+    else if (params.has('VieON-VIP')) {
         document.getElementById('vieon').style.display = 'block';
+    }
+    // Kiểm tra nếu có tham số 'vieon'
+    else if (params.has('ChatGPT-Plus')) {
+        document.getElementById('chatgpt').style.display = 'block';
+    }
+    // Kiểm tra nếu có tham số 'vieon'
+    else if (params.has('Claude-AI-Pro')) {
+        document.getElementById('claude').style.display = 'block';
     }
 });
     
