@@ -28,7 +28,7 @@ var list_products = [
     {
         "name": "CapCut Pro",
         "company": "Bytedance",
-        "img": "../img/company/capcut.jpg",
+        "img": "img/company/capcut.jpg",
         "price": "150.000 VND",
         "star": 4.7,
         "rateCount": 3200,
@@ -38,7 +38,7 @@ var list_products = [
     {
         "name": "Duolingo Plus",
         "company": "Duolingo",
-        "img": "../img/company/duolingo.jpg",
+        "img": "img/company/duolingo.jpg",
         "price": "160.000 VND",
         "star": 4.7,
         "rateCount": 2800,
@@ -48,7 +48,7 @@ var list_products = [
     {
         "name": "Elsa Speak Pro",
         "company": "Elsa",
-        "img": "../img/company/elsa.jpg",
+        "img": "img/company/elsa.jpg",
         "price": "220.000 VND",
         "star": 4.8,
         "rateCount": 3100,
@@ -58,7 +58,7 @@ var list_products = [
     {
         "name": "Google Drive",
         "company": "Google",
-        "img": "../img/company/google.jpg",
+        "img": "img/company/google.jpg",
         "price": "230.000 VND",
         "star": 4.8,
         "rateCount": 4100,
@@ -68,7 +68,7 @@ var list_products = [
     {
         "name": "HBO Max",
         "company": "Warner Bros",
-        "img": "../img/company/hbo.jpg",
+        "img": "img/company/hbo.jpg",
         "price": "250.000 VND",
         "star": 4.9,
         "rateCount": 5000,
@@ -78,7 +78,7 @@ var list_products = [
     {
         "name": "Google Meet Premium",
         "company": "Google",
-        "img": "../img/company/meet.jpg",
+        "img": "img/company/meet.jpg",
         "price": "180.000 VND",
         "star": 4.7,
         "rateCount": 2300,
@@ -98,7 +98,7 @@ var list_products = [
     {
         "name": "Spotify Premium",
         "company": "Spotify",
-        "img": "../img/company/spotify.jpg",
+        "img": "img/company/spotify.jpg",
         "price": "180.000 VND",
         "star": 4.9,
         "rateCount": 5000,
@@ -108,7 +108,7 @@ var list_products = [
     {
         "name": "VieON VIP",
         "company": "VieON",
-        "img": "../img/company/vieon.jpg",
+        "img": "img/company/vieon.jpg",
         "price": "120.000 VND",
         "star": 4.6,
         "rateCount": 2100,
@@ -118,7 +118,7 @@ var list_products = [
     {
         "name": "YouTube Premium",
         "company": "YouTube",
-        "img": "../img/company/youtube.jpg",
+        "img": "img/company/youtube.jpg",
         "price": "290.000 VND",
         "star": 4.8,
         "rateCount": 3800,
@@ -128,7 +128,7 @@ var list_products = [
     {
         "name": "Zoom Business",
         "company": "Zoom",
-        "img": "../img/company/zoom.jpg",
+        "img": "img/company/zoom.jpg",
         "price": "650.000 VND",
         "star": 4.9,
         "rateCount": 2500,
@@ -138,7 +138,7 @@ var list_products = [
     {
         "name": "ChatGPT Plus",
         "company": "OpenAI",
-        "img": "../img/company/gpt.jpg",
+        "img": "img/company/gpt.jpg",
         "price": "300.000 VND",
         "star": 4.8,
         "rateCount": 4700,
@@ -148,7 +148,7 @@ var list_products = [
     {
         "name": "Claude AI Pro",
         "company": "Anthropic",
-        "img": "../img/company/claude.jpg",
+        "img": "img/company/claude.jpg",
         "price": "350.000 VND",
         "star": 4.7,
         "rateCount": 1800,
