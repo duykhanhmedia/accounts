@@ -62,7 +62,7 @@ var list_products = [
     {
         "name": "Google Meet Premium",
         "company": "Google",
-        "img": "img/company/meet.jpg",
+        "img": "img/company/Meet.jpg",
         "price": "180.000 VND",
         "star": 4.7,
         "rateCount": 2300,
